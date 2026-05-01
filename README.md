@@ -35,7 +35,7 @@ Built with Python, OpenCV, and MediaPipe. Runs locally on your machine — no in
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/drowsiness-detector.git
+git clone https://github.com/rohanbadgotya19-byte/drowsiness-detector.git
 cd drowsiness-detector
 ```
 
