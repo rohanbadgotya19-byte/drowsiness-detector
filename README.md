@@ -133,7 +133,7 @@ MIT — free to use, modify, and distribute.
 
 ## 👤 Author
 
-Built by ROHAN BADGOTYA  — a 16-year-old developer from India.  
+Built by ROHAN BADGOTYA  —developer from India.  
 Inspired by the problem of falling asleep while studying for JEE 💀
 
 > *"If I'm going to suffer through exam prep, at least my computer should suffer with me."*
