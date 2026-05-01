@@ -1,8 +1,15 @@
 # 😴 DrowsinessDetector
 
 
-**First time only:** Right-click run.command → Open → Open anyway
-After that, double-click works normally.
+## ⚠️ Current Status
+
+The one-click `run.command` launcher is still being improved for cross-platform compatibility. 
+
+For now, please use the manual method:
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run: `python drowsiness_detector.py`
+
+**Found a bug or need help?** Open an issue on GitHub → [Issues tab](../../issues)
 
 **Real-time drowsiness detection that screams at you before you fall asleep at your desk.**
 
