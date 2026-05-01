@@ -1,5 +1,9 @@
 # 😴 DrowsinessDetector
 
+
+**First time only:** Right-click run.command → Open → Open anyway
+After that, double-click works normally.
+
 **Real-time drowsiness detection that screams at you before you fall asleep at your desk.**
 
 Built with Python, OpenCV, and MediaPipe. Runs locally on your machine — no internet required, no data sent anywhere.
