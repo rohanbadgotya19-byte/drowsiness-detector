@@ -133,7 +133,7 @@ MIT — free to use, modify, and distribute.
 
 ## 👤 Author
 
-Built by ROHAN BADGOTYA  —developer from India.  
+Built by an anonymous developer. PRs welcome.   
 Inspired by the problem of falling asleep while studying for JEE 💀
 
 > *"If I'm going to suffer through exam prep, at least my computer should suffer with me."*
